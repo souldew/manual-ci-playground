@@ -3,5 +3,5 @@ export function add(a: number, b: number): number {
 }
 
 export function sub(a: number, b: number): number {
-  return a - b;
+  return a - b - 1;
 }
